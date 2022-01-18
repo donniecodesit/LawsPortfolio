@@ -1,4 +1,5 @@
 import React from "react";
+import image from "../images/projects.png";
 
 export default function Projects() {
     return (
@@ -6,10 +7,28 @@ export default function Projects() {
             <scetion className="InfoRow">
                 <div className="col-7">
                     <h2>Projects:</h2>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+                    <div className="flex row justify-content-around">
+                        <h3>Flashcards Applicaiton</h3> 
+                        <a href="https://github.com/donovanlaws/flashcards" target="_blank" rel="noreferrer">Project Link</a>
+                    </div>
+                    <ul>
+                        <li>Built with JavaScript, React, HTML, and CSS.</li>
+                        <li>Developed a full-stack application that lets users manage decks of cards to study and review.</li>
+                        <li>Engineered interactive components that utilized react states to display content from the local database.</li>
+                    </ul>
+                    <div className="flex row justify-content-around">
+                        <h3>PrototonBot Discord Bot</h3> 
+                        <a href="https://github.com/donovanlaws/PrototonBot" target="_blank" rel="noreferrer">Project Link</a>
+                    </div>
+                    <ul>
+                        <li>Built with JavaScript, Node.JS, Discord.Net, C#, and MongoDB.</li>
+                        <li>Developed a chatbot application that users could interact with for entertainment purposes.</li>
+                        <li>Led and communicated with a small team of developers, implemented user requests and features.</li>
+
+                    </ul>
                 </div>
                 <div className="col-5">
-                    <img src="https://m.media-amazon.com/images/I/21f2IKNySgL._AC_SY355_.jpg" />
+                    <img src={image} alt="pink square" />
                 </div>
             </scetion>
         </article>

@@ -5,7 +5,7 @@ export default function Intro() {
         <article className="container my-3" id="intro">
             <section className="InfoRow">
                 <div className="col-5">
-                    <img src="https://avatars.githubusercontent.com/u/91988909?v=4" className="border border-secondary rounded-circle" style={{}}/>
+                    <img src="https://avatars.githubusercontent.com/u/91988909?v=4" className="border border-secondary rounded-circle" alt="Donovan" style={{}}/>
                 </div>
                 <div className="col-7">
                     <h2>Happy to work with you!</h2>

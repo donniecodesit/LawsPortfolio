@@ -1,9 +1,13 @@
 import React from "react";
+import image from "../images/computertools.png";
 
 export default function Skills() {
     return (
         <article className="container my-3" id="skills">
             <scetion className="InfoRow">
+                <div className="col-5">
+                    <img src={image} alt="pink square" />
+                </div>
                 <div className="col-7">
                     <h2>Skills:</h2>
                     <p className="mb-0" style={{fontWeight: "bold"}}>Languages and Libraries:</p>
@@ -17,9 +21,6 @@ export default function Skills() {
                         <li>Substance <i>(Model Painting)</i></li>
                         <li>Unity <i>(VRChat Publishing)</i></li>
                     </ul>
-                </div>
-                <div className="col-5">
-                    <img src="https://m.media-amazon.com/images/I/21f2IKNySgL._AC_SY355_.jpg" />
                 </div>
             </scetion>
         </article>

@@ -14,10 +14,10 @@ export default function Header() {
                             <a className="App-link" href="#intro">Introduction</a>
                         </div>
                         <div>
-                            <a className="App-link" href="#skills">Skills</a>
+                            <a className="App-link" href="#about">About Me</a>
                         </div>
                         <div>
-                            <a className="App-link" href="#about">About Me</a>
+                            <a className="App-link" href="#skills">Skills</a>
                         </div>
                         <div>
                             <a className="App-link" href="#projects">Projects</a>
