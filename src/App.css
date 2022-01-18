@@ -1,3 +1,28 @@
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 38px;
+}
+
+h3, a {
+  font-size: 22px;
+}
+
+p, li, ul {
+  font-size: 18px;
+}
+
+img {
+  width: 100%;
+}
+
+body {
+  background-color: #cccbe4;
+}
+
+
 .App {
   text-align: center;
 }
@@ -14,18 +39,16 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #9858ff;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: flex-start;
   color: white;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #82e4ff;
 }
 
 @keyframes App-logo-spin {
