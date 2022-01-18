@@ -11,7 +11,7 @@ export default function Contact() {
         <article className="container my-3" id="contact">
             <scetion className="InfoRow">
                 <div className="col-5">
-                    <img src={image} alt="pink square" />
+                    <img src={image} alt="pink square" className="rounded" />
                 </div>
                 <div className="col-7">
                     <h2>Contact Me:</h2>

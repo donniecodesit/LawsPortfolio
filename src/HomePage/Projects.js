@@ -28,7 +28,7 @@ export default function Projects() {
                     </ul>
                 </div>
                 <div className="col-5">
-                    <img src={image} alt="pink square" />
+                    <img src={image} alt="pink square" className="rounded" />
                 </div>
             </scetion>
         </article>

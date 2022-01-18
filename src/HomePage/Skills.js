@@ -6,7 +6,7 @@ export default function Skills() {
         <article className="container my-3" id="skills">
             <scetion className="InfoRow">
                 <div className="col-5">
-                    <img src={image} alt="pink square" />
+                    <img src={image} alt="pink square" className="rounded" />
                 </div>
                 <div className="col-7">
                     <h2>Skills:</h2>

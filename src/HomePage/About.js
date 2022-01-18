@@ -12,7 +12,7 @@ export default function About() {
                     <p>I enjoy expressing myself with those I interact with, professionalism is important but in the present and future, it is great for everyone to also get to know the person they're interacting with, or communication may hit a wall. I thrive on experimenting with creativity and challenges or trying to find odd solutions to problems or cleanup, showing I want to be able to solve technical challenges given to me for solo work or teamwork.</p>
                 </div>
                 <div className="col-5">
-                    <img src={image} alt="pink square" />
+                    <img src={image} alt="pink square" className="rounded" />
                 </div>
             </scetion>
         </article>
