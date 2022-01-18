@@ -3,7 +3,7 @@ import React from "react";
 export default function Contact() {
     return (
         <article className="container my-3" id="contact">
-            <scetion className="flex row justify-content-between align-items-center">
+            <scetion className="InfoRow">
                 <div className="col-5">
                     <img src="https://m.media-amazon.com/images/I/21f2IKNySgL._AC_SY355_.jpg" />
                 </div>

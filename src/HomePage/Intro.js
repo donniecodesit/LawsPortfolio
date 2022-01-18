@@ -3,7 +3,7 @@ import React from "react";
 export default function Intro() {
     return (
         <article className="container my-3" id="intro">
-            <section className="flex row justify-content-between align-items-center">
+            <section className="InfoRow">
                 <div className="col-5">
                     <img src="https://avatars.githubusercontent.com/u/91988909?v=4" className="border border-secondary rounded-circle" style={{}}/>
                 </div>

@@ -3,7 +3,7 @@ import React from "react";
 export default function Skills() {
     return (
         <article className="container my-3" id="skills">
-            <scetion className="flex row justify-content-between align-items-center">
+            <scetion className="InfoRow">
                 <div className="col-7">
                     <h2>Skills:</h2>
                     <p className="mb-0" style={{fontWeight: "bold"}}>Languages and Libraries:</p>
