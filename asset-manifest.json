@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/LawsPortfolio/static/css/main.88f48ff2.css",
-    "main.js": "/LawsPortfolio/static/js/main.101acb52.js",
+    "main.css": "/LawsPortfolio/static/css/main.da261706.css",
+    "main.js": "/LawsPortfolio/static/js/main.03347562.js",
+    "static/media/projects.png": "/LawsPortfolio/static/media/projects.7ae5ccc642308c4deb73.png",
     "static/media/phoenixnight.png": "/LawsPortfolio/static/media/phoenixnight.4aa9023a6000ca9e0aa5.png",
     "static/media/socials.png": "/LawsPortfolio/static/media/socials.45d034d867ad7a000215.png",
-    "static/media/projects.png": "/LawsPortfolio/static/media/projects.6f4a0a9a0af20b25012d.png",
     "static/media/twitter.png": "/LawsPortfolio/static/media/twitter.bf4fccedcea1a6603f05.png",
     "static/media/gmail.png": "/LawsPortfolio/static/media/gmail.96db398c4aafa5b9e395.png",
     "static/media/linkedin.png": "/LawsPortfolio/static/media/linkedin.d75e2cc8fa7bfabe0219.png",
     "index.html": "/LawsPortfolio/index.html",
-    "main.88f48ff2.css.map": "/LawsPortfolio/static/css/main.88f48ff2.css.map",
-    "main.101acb52.js.map": "/LawsPortfolio/static/js/main.101acb52.js.map"
+    "main.da261706.css.map": "/LawsPortfolio/static/css/main.da261706.css.map",
+    "main.03347562.js.map": "/LawsPortfolio/static/js/main.03347562.js.map"
   },
   "entrypoints": [
-    "static/css/main.88f48ff2.css",
-    "static/js/main.101acb52.js"
+    "static/css/main.da261706.css",
+    "static/js/main.03347562.js"
   ]
 }
