@@ -1,3 +1,7 @@
+* {
+  font-family: 'Changa', cursive;
+}
+
 h1 {
   font-size: 64px;
 }
@@ -15,12 +19,12 @@ p, li, ul {
 }
 
 img {
-  width: 100%;
+  width: 80%;
 }
 
 body {
   background-color: #cccbe4;
-  background-image: url("https://static.vecteezy.com/system/resources/previews/002/193/726/non_2x/white-cloud-on-bluy-sky-background-free-photo.jpg");
+  background-image: url("https://i.pinimg.com/originals/b6/bf/b0/b6bfb01a2773dec45c3e6ff98c484131.jpg");
   background-size: 100%;
   background-attachment: fixed;
 }
@@ -39,7 +43,7 @@ body {
 }
 
 .App-header {
-  background-color: #7379d8;
+  background-color: #3f72c3;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -56,6 +60,12 @@ body {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+  padding: 10px 0px 10px 0px;
+}
+
+article section {
+  background-color: rgba(43, 65, 165, 0.205);
+  border-radius: 30px;
 }
 
 @media all and (max-width: 768px) {

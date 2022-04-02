@@ -9,7 +9,7 @@ import iconLinkedIn from "../images/linkedin.png";
 export default function Contact() {
     return (
         <article className="container my-3" id="contact">
-            <scetion className="InfoRow">
+            <section className="InfoRow">
                 <div className="col-5">
                     <img src={image} alt="pink square" className="rounded" />
                 </div>
@@ -28,7 +28,7 @@ export default function Contact() {
                         <img class="ico" src={iconTwitter} alt="Twitter Logo" />
                     </a>
                 </div>
-            </scetion>
+            </section>
         </article>
     );
 }

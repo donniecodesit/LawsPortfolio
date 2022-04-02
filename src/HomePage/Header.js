@@ -6,7 +6,7 @@ export default function Header() {
             <div className="InfoRow">
                 <div className="col-5">
                     <h1>Donovan Laws</h1>
-                    <h2>Software Developer</h2>
+                    <h2>Web Developer</h2>
                 </div>
                 <div className="col-7">
                     <div className="InfoRow">
