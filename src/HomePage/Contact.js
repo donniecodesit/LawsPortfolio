@@ -15,7 +15,7 @@ export default function Contact() {
                 </div>
                 <div className="col-7">
                     <h2>Contact Me:</h2>
-                    <a href="https://github.com/donovanlaws" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/donniecodesit" target="_blank" rel="noreferrer">
                         <img class="ico" src={iconGit} alt="GitHub Logo" />
                     </a>
                     <a href="https://www.linkedin.com/in/donovanlaws/" target="_blank" rel="noreferrer">
