@@ -9,7 +9,7 @@ export default function Projects() {
                     <h2>Some Projects!</h2>
                     <div className="flex row justify-content-around">
                         <h3>Restaurant Reservation App</h3> 
-                        <a href="https://github.com/donovanlaws/restaurant-reservation-system" target="_blank" rel="noreferrer">Project Link</a>
+                        <a href="https://github.com/donniecodesit/restaurant-reservation-system" target="_blank" rel="noreferrer">Project Link</a>
                     </div>
                     <ul>
                         <li>Built a PERN stack application to book and edit reservations, stored an managed with a database.</li>
@@ -18,7 +18,7 @@ export default function Projects() {
                     </ul>
                     <div className="flex row justify-content-around">
                         <h3>PrototonBot Discord Bot</h3> 
-                        <a href="https://github.com/donovanlaws/PrototonBot" target="_blank" rel="noreferrer">Project Link</a>
+                        <a href="https://github.com/donniecodesit/PrototonBot" target="_blank" rel="noreferrer">Project Link</a>
                     </div>
                     <ul>
                         <li>Built with JavaScript, Node.JS, Discord.Net, C#, and MongoDB.</li>
